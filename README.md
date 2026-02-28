@@ -3,7 +3,7 @@ DJ Ivan Skrinjaric - Website Project
 
 
 Live Website:
-https://wwww.dj-ivanskrinjaric.com
+https://www.dj-ivanskrinjaric.com
 
 # Project Overview
 This is a live WordPress website I built and manage for a DJ brand.
